@@ -20,11 +20,11 @@ If you encounter any errors, please check the following:
 * Make sure that the folder that you are trying to print the files from is accessible.
 * Make sure that the default printer is turned on and has paper loaded.
 
-If you are still having problems, please open an issue on the GitHub repository: [https://stackoverflow.com/questions/8533202/list-files-in-local-git-repo](https://stackoverflow.com/questions/8533202/list-files-in-local-git-repo).
+If you are still having problems, please open an issue on the GitHub repository: [https://github.com/nickforbizz/DocumentPrinter.git](/nickforbizz/DocumentPrinter).
 
 **Contributing:**
 
-If you would like to contribute to the development of Print All Files, please fork the GitHub repository: [https://stackoverflow.com/questions/8533202/list-files-in-local-git-repo](https://stackoverflow.com/questions/8533202/list-files-in-local-git-repo) and make your changes. Once you have made your changes, please submit a pull request.
+If you would like to contribute to the development of Print All Files, please fork the GitHub repository: [https://github.com/nickforbizz/DocumentPrinter.git](/nickforbizz/DocumentPrinter) and make your changes. Once you have made your changes, please submit a pull request.
 
 **License:**
 

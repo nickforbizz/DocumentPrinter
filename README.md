@@ -4,7 +4,7 @@ Print All Files is a Python application that allows you to print all of the file
 
 **To use the application:**
 
-1. Download the application from GitHub: [https://stackoverflow.com/questions/8533202/list-files-in-local-git-repo](https://stackoverflow.com/questions/8533202/list-files-in-local-git-repo).
+1. Download the application from GitHub: [https://github.com/nickforbizz/DocumentPrinter.git](/nickforbizz/DocumentPrinter).
 2. Extract the contents of the ZIP file to a folder on your computer.
 3. Run the `print_all_files.py` file.
 4. In the GUI, select the folder that you want to print the files from.
